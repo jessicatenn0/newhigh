@@ -1,2 +1,4 @@
 # newhigh
 clear
+# lala
+energy
